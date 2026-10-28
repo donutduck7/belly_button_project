@@ -1,6 +1,4 @@
 
-Certainly! Here's the updated README with additional information about the bubble chart, bar graph, and other features:
-
 Belly Button Washing Frequency Dashboard
 Overview
 This project aims to visualize belly button washing frequency data using a Dash web application. The dataset used in this project contains information about individuals' belly button microbes, including their washing frequencies. The dashboard provides an interactive way to explore and understand the relationship between belly button washing frequency and microbial diversity.
